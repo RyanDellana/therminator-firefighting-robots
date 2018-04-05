@@ -7,5 +7,5 @@ All three of these competed in the highschool division back in 2002 and 2003, wi
 
 ![Therminator 2 Robot](https://github.com/RyanDellana/therminator-firefighting-robots/blob/master/Therminator2.jpg)
 
-![Therminator 3 Robot](https://github.com/RyanDellana/therminator-firefighting-robots/blob/master/Therminator3.jpg)
+![Therminator 3 Robot](https://github.com/RyanDellana/therminator-firefighting-robots/blob/master/Therminator_3.jpg)
 
