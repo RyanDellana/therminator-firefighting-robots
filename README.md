@@ -5,11 +5,8 @@ All three of these competed in the highschool division back in 2002 and 2003, wi
 
 <img src="https://github.com/RyanDellana/therminator-firefighting-robots/blob/master/Therminator1.jpg" width=640px height=480px />
 <img src="https://github.com/RyanDellana/therminator-firefighting-robots/blob/master/Therminator1_schematic.png" width=640px height=480px />
-
-
-![Therminator 2 Robot](https://github.com/RyanDellana/therminator-firefighting-robots/blob/master/Therminator2.jpg)
-![Therminator 2 Schematic](https://github.com/RyanDellana/therminator-firefighting-robots/blob/master/Therminator2_schematic.png)
-
+<img src="https://github.com/RyanDellana/therminator-firefighting-robots/blob/master/Therminator2.jpg" width=640px height=480px />
+<img src="https://github.com/RyanDellana/therminator-firefighting-robots/blob/master/Therminator2_schematic.png" width=640px height=480px />
 
 ![Therminator 3 Robot](https://github.com/RyanDellana/therminator-firefighting-robots/blob/master/Therminator_3.jpg)
 
